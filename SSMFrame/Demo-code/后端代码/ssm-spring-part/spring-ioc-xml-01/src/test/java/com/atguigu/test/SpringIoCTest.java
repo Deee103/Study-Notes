@@ -71,10 +71,9 @@ public class SpringIoCTest {
 
         //方案3: 直接根据类型获取
         //TODO: 根据bean的类型获取,同一个类型,在ioc容器中只能有一个bean!!!
-        //TODO: 如果ioc容器存在多个同类型的Bean 会出现: NoUniqueBeanDefinitionException
+        //TODO: 如果ioc容器存在多个同类型的Bean 会出现: NoUniqueBeanDefinitionException 不唯一异常
         //TODO: ioc的配置一定是实现类,但是可以根据接口类型获取值!   getBean(类型);  instanceof  ioc容器的类型  == true
-        A happyComponent2 = applicationContext.getBean(A.class);
-
+        A happyComponent2 = applicationContext.getBean(A.class);//根据接口获取
         happyComponent2.doWork();
 
         System.out.println(happyComponent == happyComponent1);

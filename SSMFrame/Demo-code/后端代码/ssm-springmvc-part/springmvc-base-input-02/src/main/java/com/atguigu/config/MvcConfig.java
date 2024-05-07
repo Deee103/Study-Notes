@@ -20,7 +20,7 @@ import org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandl
 @EnableWebMvc  //handlerAdapter配置了json转化器
                // 添加秘书 添加经理  给经理添加jacksonjson处理器
 @Configuration
-@ComponentScan("com.atguigu.json")
+@ComponentScan("com.atguigu")
 public class MvcConfig implements WebMvcConfigurer {
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
@@ -28,7 +28,7 @@ public class MvcConfig implements WebMvcConfigurer {
     }
 
 
-    //    @Bean
+//    @Bean
 //    public RequestMappingHandlerMapping handlerMapping(){
 //       return  new RequestMappingHandlerMapping();
 //    }

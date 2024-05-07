@@ -2,14 +2,35 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="springmvc-high-other-05:war exploded" />
+      <artifact name="springmvc-base-input-02:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aef3e0fd-e3bf-4702-8888-a1b4e5e29c82" name="Changes" comment="" />
+    <list default="true" id="aef3e0fd-e3bf-4702-8888-a1b4e5e29c82" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-base-input-02/src/main/java/com/atguigu/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-base-input-02/src/main/java/com/atguigu/config/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-base-input-02/src/main/java/com/atguigu/json/JsonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-base-input-02/src/main/java/com/atguigu/json/JsonController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +44,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Deee103&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Deee103/Study-Notes.git&quot;,
+    &quot;accountId&quot;: &quot;73b8b9fc-b429-4e98-81ef-bb919d6b59fe&quot;
+  }
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -36,15 +72,16 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="customMavenHome" value="D:\Program Files\apache-maven-3.8.6" />
+        <option name="localRepository" value="D:\Program Files\apache-maven-3.8.6\maven_repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.8.6\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2TIGF7XayRf52KZHaVkb754P7se" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,14 +91,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 10.1.20 2.executor": "Run",
+    "Tomcat Server.Tomcat 10.1.20.executor": "Run",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/javaprojects/ssm-springmvc-part/springmvc-high-other-05/src/main/java/com/atguigu/config",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/GitHub/Study-Notes/SSMFrame/Demo-code/后端代码/ssm-integration-part",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,18 +119,18 @@
       <recent name="com.atguigu.controller" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Tomcat 10.1.7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.7" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.20 2">
+    <configuration name="Tomcat 10.1.20 2" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.20" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="springmvc-high-other-05:war exploded">
+        <artifact name="springmvc-base-input-02:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="a8fa6d91-6872-4a31-b12e-c180dc2d1d3c" />
+        <option name="BASE_DIRECTORY_NAME" value="77e12933-b35d-43f4-950f-7812b30ec9ad" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -93,7 +138,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="51069" />
+        <option name="DEBUG_PORT" value="50019" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -158,12 +203,126 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="springmvc-high-other-05:war exploded" />
+          <artifact name="springmvc-base-input-02:war exploded" />
         </option>
       </method>
     </configuration>
+    <configuration name="Tomcat 10.1.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="springmvc-base-quick-01:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f3ba71ad-b0fd-4029-91fd-53c18051fa37" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61196" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="springmvc-base-quick-01:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 10.1.20" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.20 2" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aef3e0fd-e3bf-4702-8888-a1b4e5e29c82" name="Changes" comment="" />
+      <created>1714894636292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714894636292</updated>
+      <workItem from="1714894637330" duration="1777000" />
+      <workItem from="1714896555133" duration="1218000" />
+      <workItem from="1714958661279" duration="649000" />
+      <workItem from="1714979154801" duration="5678000" />
+      <workItem from="1715000960574" duration="1988000" />
+    </task>
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
@@ -177,5 +336,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

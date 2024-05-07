@@ -26,6 +26,7 @@ public class JavaBean {
         System.out.println("JavaBean.init");
     }
 
+    //多例模式下不会生命周期不会销毁
     @PreDestroy
     public void destroy(){
         System.out.println("JavaBean.destroy");

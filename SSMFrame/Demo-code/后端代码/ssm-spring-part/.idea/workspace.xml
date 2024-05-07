@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ce09455-439d-43e7-aa41-b70bae22f06d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ssm-maven-part/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-maven-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-maven-part/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -35,33 +48,48 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Deee103/collection.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Deee103/Study-Notes.git&quot;,
     &quot;accountId&quot;: &quot;73b8b9fc-b429-4e98-81ef-bb919d6b59fe&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Program Files\apache-maven-3.8.6" />
+        <option name="localRepository" value="D:\Program Files\apache-maven-3.8.6\maven_repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2Sv5tas6IfGxqAuBskNp5PIwTeP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JUnit.JdbcTemplateTest.testQueryAll.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.SpringIoCTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.SpringIoCTest.getBeanFromIoC.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.SpringIoCTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringIoCTest.testIoc_02.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringIoCTest.test_04.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringIoCTest.test_05.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/GitHub/collection/Java/SSM/DemoCode/后端代码/ssm-spring-part&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/GitHub/Study-Notes/SSMFrame/Demo-code/后端代码/ssm-mybatis-part&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -70,6 +98,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;8ac7bccdc5dc69155e235ae05140a88b&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -88,34 +117,19 @@
       <recent name="com.atguigu.ioc_01.xx.jj" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SpringIoCTest.getBeanFromIoC">
-    <configuration name="SpringAopTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-aop-xml-11" />
+  <component name="RunManager" selected="JUnit.SpringIoCTest.testIoc_02">
+    <configuration name="JdbcTemplateTest.testQueryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-ioc-xml-practice-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="PATTERN" value="com.atguigu.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.SpringAopTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.atguigu.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="testQueryAll" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringIoCTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-ioc-xml-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.SpringIoCTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringIoCTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-ioc-java-06" />
+    <configuration name="SpringIoCTest.testIoc_02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-ioc-annotation-03" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.atguigu.test.*" />
@@ -146,14 +160,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.test" />
       <option name="MAIN_CLASS_NAME" value="com.atguigu.test.SpringIoCTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="METHOD_NAME" value="testIoc_02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringTxTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-tx-annotation-12" />
+    <configuration name="SpringIoCTest.test_04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-ioc-xml-01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.atguigu.test.*" />
@@ -161,27 +175,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.SpringTxTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.SpringIoCTest" />
+      <option name="METHOD_NAME" value="test_04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringIoCTest.test_05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-ioc-xml-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.SpringIoCTest" />
+      <option name="METHOD_NAME" value="test_05" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SpringAopTest.test (1)" />
-      <item itemvalue="JUnit.SpringIoCTest" />
+      <item itemvalue="JUnit.JdbcTemplateTest.testQueryAll" />
+      <item itemvalue="JUnit.SpringIoCTest.testIoc_02" />
+      <item itemvalue="JUnit.SpringIoCTest.test_05" />
+      <item itemvalue="JUnit.SpringIoCTest.test_04" />
       <item itemvalue="JUnit.SpringIoCTest.getBeanFromIoC" />
-      <item itemvalue="JUnit.SpringIoCTest.test" />
-      <item itemvalue="JUnit.SpringTxTest.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpringIoCTest.testIoc_02" />
+        <item itemvalue="JUnit.JdbcTemplateTest.testQueryAll" />
+        <item itemvalue="JUnit.SpringIoCTest.test_05" />
+        <item itemvalue="JUnit.SpringIoCTest.test_04" />
         <item itemvalue="JUnit.SpringIoCTest.getBeanFromIoC" />
-        <item itemvalue="JUnit.SpringIoCTest" />
-        <item itemvalue="JUnit.SpringIoCTest.test" />
-        <item itemvalue="JUnit.SpringTxTest.test" />
-        <item itemvalue="JUnit.SpringAopTest.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -204,11 +234,23 @@
       <workItem from="1714384411798" duration="152000" />
       <workItem from="1714385732558" duration="4721000" />
       <workItem from="1714449369697" duration="6000" />
+      <workItem from="1714469607464" duration="887000" />
+      <workItem from="1714533184675" duration="3607000" />
+      <workItem from="1714558566421" duration="1880000" />
+      <workItem from="1714809205852" duration="8914000" />
+      <workItem from="1714868957478" duration="6406000" />
+      <workItem from="1714893595108" duration="9000" />
+      <workItem from="1714896527632" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../../.." />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

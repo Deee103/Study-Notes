@@ -22,7 +22,7 @@ import javax.sql.DataSource;
  *
  */
 
-@ComponentScan({"com.atguigu.ioc_01","com.atguigu.ioc_02"})
+@ComponentScan({"com.atguigu.ioc_01","com.atguigu.ioc_04"})
 @PropertySource("classpath:jdbc.properties")
 @Configuration
 public class JavaConfiguration {
