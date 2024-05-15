@@ -5,23 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ce09455-439d-43e7-aa41-b70bae22f06d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-part/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm-integration-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-integration-part/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources/e74ff004-f3b7-4b39-bf5a-cfa2977de62d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/dataSources/e74ff004-f3b7-4b39-bf5a-cfa2977de62d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../微头条项目代码/后端代码/springboot-headline-part/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,6 +235,7 @@
       <workItem from="1714868957478" duration="6406000" />
       <workItem from="1714893595108" duration="9000" />
       <workItem from="1714896527632" duration="28000" />
+      <workItem from="1715700036700" duration="6000" />
     </task>
     <servers />
   </component>

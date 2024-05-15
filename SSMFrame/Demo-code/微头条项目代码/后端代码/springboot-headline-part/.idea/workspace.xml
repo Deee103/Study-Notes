@@ -5,49 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23cba06e-d33f-4e65-9295-942743147c5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../后端代码/ssm-integration-part/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/mybatis-plus-part/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/mybatis-plus-part/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/mybatis-plus-part/.idea/dataSources/816b7328-6996-4538-89b5-14ff41e6975d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/mybatis-plus-part/.idea/dataSources/816b7328-6996-4538-89b5-14ff41e6975d.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/mybatis-plus-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/mybatis-plus-part/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/mybatis-plus-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/mybatis-plus-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/springboot-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/springboot-part/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../后端代码/springboot-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/springboot-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/springboot-part/springboot-base-druid-04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/springboot-part/springboot-base-druid-04/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/springboot-part/springboot-base-quick-01/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/springboot-part/springboot-base-quick-01/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/springboot-part/springboot-base-quick-01/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/springboot-part/springboot-base-quick-01/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-integration-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-integration-part/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-integration-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-integration-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-integration-part/ssm-integration-todolist-02/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-integration-part/ssm-integration-todolist-02/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-mybatis-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-spring-part/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/springmvc-base-input-02/src/main/java/com/atguigu/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/springmvc-base-input-02/src/main/java/com/atguigu/config/MvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/springmvc-base-input-02/src/main/java/com/atguigu/json/JsonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../后端代码/ssm-springmvc-part/springmvc-base-input-02/src/main/java/com/atguigu/json/JsonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../前端代码/my-vue3-vite-project/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端代码/my-vue3-vite-project/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6d39dd72-2988-435c-9be3-0668c557cd8b/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e74ff004-f3b7-4b39-bf5a-cfa2977de62d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e74ff004-f3b7-4b39-bf5a-cfa2977de62d.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Deee103"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Deee103&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Deee103/Study-Notes.git",
-    "accountId": "73b8b9fc-b429-4e98-81ef-bb919d6b59fe"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Deee103/Study-Notes.git&quot;,
+    &quot;accountId&quot;: &quot;73b8b9fc-b429-4e98-81ef-bb919d6b59fe&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -88,43 +52,43 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2TVgd7dnaYYuwnziDXUPNV9ERGb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.JwtTest.test.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.Main.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/GitHub/Study-Notes/SSMFrame/Demo-code/微头条项目代码/后端代码/springboot-headline-part",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "889195fa9bf368eab582f79caae4f16a",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.JwtTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/GitHub/Study-Notes/SSMFrame/Demo-code/微头条项目代码/后端代码/springboot-headline-part&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;889195fa9bf368eab582f79caae4f16a&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.Main">
     <configuration name="JwtTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-headline-part" />
@@ -172,6 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715057723502</updated>
       <workItem from="1715057724560" duration="2183000" />
+      <workItem from="1715699923953" duration="62000" />
     </task>
     <servers />
   </component>

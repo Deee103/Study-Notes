@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86364b0a-5ae8-40a8-827a-3649a7652aac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ssm-integration-part/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-base-druid-04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-base-druid-04/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-base-quick-01/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-base-quick-01/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-base-quick-01/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-base-quick-01/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-integration-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-integration-part/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-integration-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-integration-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-integration-part/ssm-integration-todolist-02/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-integration-part/ssm-integration-todolist-02/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/dataSources/7bb7e0f7-4fde-4480-b799-981ccaeda347/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-mybatis-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-annotation-03/src/main/java/com/atguigu/ioc_02/JavaBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-java-06/src/main/java/com/atguigu/config/JavaConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-xml-01/src/test/java/com/atguigu/test/SpringIoCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-spring-part/spring-ioc-xml-01/target/test-classes/com/atguigu/test/SpringIoCTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/springmvc-base-input-02/src/main/java/com/atguigu/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/springmvc-base-input-02/src/main/java/com/atguigu/config/MvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ssm-springmvc-part/springmvc-base-input-02/src/main/java/com/atguigu/json/JsonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm-springmvc-part/springmvc-base-input-02/src/main/java/com/atguigu/json/JsonController.java" afterDir="false" />
-    </list>
+    <list default="true" id="86364b0a-5ae8-40a8-827a-3649a7652aac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Deee103"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Deee103&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Deee103/Study-Notes.git",
-    "accountId": "73b8b9fc-b429-4e98-81ef-bb919d6b59fe"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Deee103/Study-Notes.git&quot;,
+    &quot;accountId&quot;: &quot;73b8b9fc-b429-4e98-81ef-bb919d6b59fe&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -77,9 +47,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2TNZt5RLNH5eJX8zV0NnN8sstmS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -104,6 +74,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "MavenSettings",
     "spring.configuration.checksum": "427587f9b378cfd2e33241258a7e52ce",
     "vue.rearranger.settings.migration": "true"
@@ -203,6 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715042445794</updated>
       <workItem from="1715042446843" duration="4180000" />
+      <workItem from="1715699875260" duration="50000" />
     </task>
     <servers />
   </component>
